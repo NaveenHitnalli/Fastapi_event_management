@@ -1,0 +1,2 @@
+Collaborative Event Management System 🗓️
+This project is a Collaborative Event Management System backend built using Flask for user authentication and FastAPI for managing events via RESTful APIs. It offers robust features including JWT-based authentication, role-based access control (Admin, Organizer, Participant), event creation and modification, version history, changelogs, and conflict resolution mechanisms for collaborative edits.
